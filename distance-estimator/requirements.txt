@@ -1,0 +1,10 @@
+hyperopt
+tqdm
+matplotlib
+pandas
+hyperas
+opencv_python
+numpy
+Keras
+asposebarcode
+scikit_learn
