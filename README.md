@@ -12,4 +12,4 @@ This project implements object detection and range estimation. The object detect
 ![](https://github.com/HassanBinHaroon/object_detection-PLUS-distance_estimation-v1/blob/main/images/cars2.gif)
 ## Table Of Contents
 
-### Inference on Google Colab
+    1. Inference on Google Colab
