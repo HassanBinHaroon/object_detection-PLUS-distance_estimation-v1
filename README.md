@@ -13,3 +13,4 @@ This project implements object detection and range estimation. The object detect
 ## Table Of Contents
 
     1. Inference on Google Colab (quickest inference execution)
+### > Inference on Google Colab (quickest inference execution)
