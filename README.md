@@ -32,3 +32,5 @@ https://colab.research.google.com/github/HassanBinHaroon/object_detection-PLUS-d
 ##### >>>>> Run All
 
 ![](https://github.com/HassanBinHaroon/deep-hough-transform/blob/main/Images/im3.png)
+
+#### Note: There is still work in progress. More options will be added to the project soon.
