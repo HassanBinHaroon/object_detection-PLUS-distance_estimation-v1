@@ -1,0 +1,6 @@
+train: thermal_dataset/images/train
+val: thermal_dataset/images/val
+
+nc: 14
+
+names: ['empty', 'person', 'bicycle', 'car', 'motorcycle', 'airplane', 'bus', 'train', 'truck', 'boat', 'traffic light', 'fire hydrant', 'stop sign', 'parking meter']
