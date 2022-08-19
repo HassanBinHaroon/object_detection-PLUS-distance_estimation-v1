@@ -14,3 +14,21 @@ This project implements object detection and range estimation. The object detect
 
     1. Inference on Google Colab (quickest inference execution)
 ### > Inference on Google Colab (quickest inference execution)
+
+Click on the following link.
+
+https://colab.research.google.com/github/HassanBinHaroon/object_detection-PLUS-distance_estimation-v1/blob/main/INFERENCE_object_detection_PLUS_distance_estimation_v1.ipynb
+
+#### Must Do After Clicking 
+
+##### >>>>> Change runtime type
+
+![](https://github.com/HassanBinHaroon/deep-hough-transform/blob/main/Images/im1.png)
+
+##### >>>>> Select GPU
+
+![](https://github.com/HassanBinHaroon/deep-hough-transform/blob/main/Images/im2.png)
+
+##### >>>>> Run All
+
+![](https://github.com/HassanBinHaroon/deep-hough-transform/blob/main/Images/im3.png)
