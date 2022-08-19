@@ -35,6 +35,12 @@ https://colab.research.google.com/github/HassanBinHaroon/object_detection-PLUS-d
 
 #### Visualize the results
 
+    1. Go to frames folder and scroll down
+
 ![](https://github.com/HassanBinHaroon/object_detection-PLUS-distance_estimation-v1/blob/main/images/Untitled.png)
+
+    2. Double-Click on output.mp4. See the output video in downloads.
+
+![](https://github.com/HassanBinHaroon/object_detection-PLUS-distance_estimation-v1/blob/main/images/Untitled1.png)    
 
 #### Note: There is still work in progress. More options will be added to the project soon.
