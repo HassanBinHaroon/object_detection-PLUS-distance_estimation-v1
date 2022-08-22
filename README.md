@@ -17,7 +17,7 @@ This project implements object detection and range estimation. The object detect
 
 Click on the following link.
 
-https://colab.research.google.com/github/HassanBinHaroon/object_detection-PLUS-distance_estimation-v1/blob/main/INFERENCE_object_detection_PLUS_distance_estimation_v1.ipynb
+https://colab.research.google.com/drive/1rEJLCUzFmkjmScXfbfaha13biHx7moh8#scrollTo=DSHoYo1hCe0R
 
 #### Must Do After Clicking 
 
